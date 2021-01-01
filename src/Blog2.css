@@ -1,0 +1,50 @@
+body{
+    background: #833ab4;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #fcb045, #fd1d1d, #833ab4);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #fcb045, #fd1d1d, #833ab4); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.btn{
+    background: pink;
+    margin: 20px;
+}
+
+.add-btn{
+    
+    width: 60px;
+    height: 40px;
+    background-color: rgb(202, 156, 24);
+    cursor: pointer;
+    border-radius: 5px;
+   
+}
+.app-title{
+    text-align: center;
+    color: lightblue;
+    font-size: 50px;
+}
+.container{
+    border: 5px solid pink;
+    border-radius: 25px;
+}
+
+code{
+    font-family: 'Oxygen', sans-serif;
+    font-size: 20px;
+    margin: 40px auto;
+    width: 800px
+  
+}
+
+.blog-landing {
+    
+    min-height: 500px;
+    width: 600px;
+    margin: 40px auto;
+    border: 5px solid pink;
+    border-radius: 25px;
+  }
+
+  input{
+      height: 20px;
+  }
